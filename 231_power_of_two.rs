@@ -35,3 +35,6 @@ impl Solution {
         n > 0 && n.count_ones() == 1
     }
 }
+
+
+#also if you have muliplt codes for a single question, add it right!
